@@ -9,7 +9,7 @@ Factory Method design pattern.
 ## Justificación del uso del patrón de diseño
 [...]
 ## Diagrama de clases de la solución implementada
-![alt text]()
+![alt text](https://github.com/alejocano22/Factory-Method-ST0250-2018-2/blob/master/Diagramas/DiagramaSpotify.png)
 ## Lenguaje de programación
 El lenguaje de programación usado para el desarrollo de este patrón de diseño fue JAVA versión 8 Update 191 CPU
 ## Ejecución del código
